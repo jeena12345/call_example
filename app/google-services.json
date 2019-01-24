@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458900764090",
+    "firebase_url": "https://phonebook-cf751.firebaseio.com",
+    "project_id": "phonebook-cf751",
+    "storage_bucket": "phonebook-cf751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458900764090:android:e31abe08baa8626d",
+        "android_client_info": {
+          "package_name": "com.example.inet.call_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458900764090-2o8pukfv6hfhti25rthkbdeot8emnoq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCb8jyXJtyzc3QUOPqhvJRgDVlBucQC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
