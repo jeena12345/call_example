@@ -29,7 +29,7 @@ EditText no;
         demoRef = rootRef.child("demo");
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View v) {//jeena
 demoRef.setValue(no.getText().toString());
             }
         });
